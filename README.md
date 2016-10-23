@@ -14,18 +14,18 @@ features
 
 ## Usage
 Command list
-1. vu PATH init
-2. vu PATH
-3. vu PATH major
-4. vu PATH minor
-5. vu PATH rev
+1. vu PATH init  
+2. vu PATH  
+3. vu PATH major  
+4. vu PATH minor  
+5. vu PATH rev  
 
 Command description
-1. Generate Version Updater header and preference to PATH.
-2. Increment build count and generate files.
-3. Increment major version, clear minor version and revision and generate files.
-4. Increment minor version, clear revision and generate files.
-5. Increment revision and generate files.
+1. Generate Version Updater header and preference to PATH.  
+2. Increment build count and generate files.  
+3. Increment major version, clear minor version and revision and generate files.  
+4. Increment minor version, clear revision and generate files.  
+5. Increment revision and generate files.  
 
 ## Generated Files
 Generate to PATH directory
