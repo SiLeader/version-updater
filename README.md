@@ -13,14 +13,14 @@ features
 * Auto increment build counter.
 
 ## Usage
-Command list
+Command list  
 1. vu PATH init  
 2. vu PATH  
 3. vu PATH major  
 4. vu PATH minor  
 5. vu PATH rev  
 
-Command description
+Command description  
 1. Generate Version Updater header and preference to PATH.  
 2. Increment build count and generate files.  
 3. Increment major version, clear minor version and revision and generate files.  
